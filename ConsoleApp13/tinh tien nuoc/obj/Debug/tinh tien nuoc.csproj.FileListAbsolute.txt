@@ -1,0 +1,7 @@
+D:\C sharp\ConsoleApp13\tinh tien nuoc\bin\Debug\tinh tien nuoc.exe.config
+D:\C sharp\ConsoleApp13\tinh tien nuoc\bin\Debug\tinh tien nuoc.exe
+D:\C sharp\ConsoleApp13\tinh tien nuoc\bin\Debug\tinh tien nuoc.pdb
+D:\C sharp\ConsoleApp13\tinh tien nuoc\obj\Debug\tinh tien nuoc.csproj.AssemblyReference.cache
+D:\C sharp\ConsoleApp13\tinh tien nuoc\obj\Debug\tinh tien nuoc.csproj.CoreCompileInputs.cache
+D:\C sharp\ConsoleApp13\tinh tien nuoc\obj\Debug\tinh tien nuoc.exe
+D:\C sharp\ConsoleApp13\tinh tien nuoc\obj\Debug\tinh tien nuoc.pdb
